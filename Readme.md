@@ -23,7 +23,6 @@ This project focuses on building an optimized investment portfolio using histori
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `scipy.optimize` for optimization
 - `Alpha Vantage` API for stock data
-- `Backtrader` (for future backtesting)
 
 ## 🧪 Strategy Logic
 
